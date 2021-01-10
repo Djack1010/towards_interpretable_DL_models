@@ -1,7 +1,7 @@
 import time
 
 # MAIN Absolute Path
-main_path = "/home/djack/local_repositories/towards_interpretable_DL_models/"
+main_path = ""
 # Timestamp Execution
 timeExec = "{}".format(time.strftime("%d%m_%H%M%S"))
 
