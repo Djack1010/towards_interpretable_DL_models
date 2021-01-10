@@ -2,8 +2,7 @@
 
 Repository to replicate the experiments presented in 'Towards an Interpretable Deep Learning Model for Mobile Malware Detection and Family Identification' by Iadarola G. et al.
 
-If you are using this repository, please consider **citing our 
-works** (see links at the end of this README file).
+If you are using this repository, please consider [**citing our works**](#publications) (see links at the end of this README file).
 
 This repository contains the code to strictly replicate the experiments, but it is based on the [TAMI](https://github.com/Djack1010/tami) repository, which constitute the main repository.
 
@@ -68,6 +67,7 @@ tensorboard --logdir results/tensorboard/fit/
 
 * **Giacomo Iadarola** - *main contributor* - [Djack1010](https://github.com/Djack1010) giacomo.iadarola(at)iit.cnr.it
 
+<a name="publications"></a>
 If you are using this repository, please cite our work by referring to our publications (BibTex format):
 ```
 WORK IN PROGRESS...
