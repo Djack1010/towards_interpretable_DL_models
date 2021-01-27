@@ -70,5 +70,12 @@ tensorboard --logdir results/tensorboard/fit/
 <a name="publications"></a>
 If you are using this repository, please cite our work by referring to our publications (BibTex format):
 ```
-WORK IN PROGRESS...
+@article{iadarola2021towards,
+  title={Towards an Interpretable Deep Learning Model for Mobile Malware Detection and Family Identification},
+  author={Iadarola, Giacomo and Martinelli, Fabio and Mercaldo, Francesco and Santone, Antonella},
+  journal={Computers \& Security},
+  pages={102198},
+  year={2021},
+  publisher={Elsevier}
+}
 ```
