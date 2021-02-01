@@ -19,9 +19,9 @@ Refers to [TAMI](https://github.com/Djack1010/tami) for further information and 
 
 #### Usage
 
-The DL models can be run with the `main.py` scripts:
+The tool can be run with the `main.py` and `main_cati.py` scripts. See the README file in the cati folder for further information on the `main_cati.py` script.
 
-See further information on the arguments required with:
+`main.py` usage:
 ```
 python main.py --help
 usage: main.py [-h] -m {DATA,CNN} -d DATASET [-o OUTPUT_MODEL] [-l LOAD_MODEL] [-t TUNING] [-e EPOCHS] [-b BATCH_SIZE] [-i IMAGE_SIZE] [-w WEIGHTS] [--mode MODE] [--exclude_top]
