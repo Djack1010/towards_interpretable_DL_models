@@ -79,3 +79,10 @@ If you are using this repository, please cite our work by referring to our publi
   publisher={Elsevier}
 }
 ```
+
+#### Acknowledgements
+
+The authors would like to thank the 'Trust, Security and Privacy' research group within the [Institute of Informatics and Telematics](https://www.iit.cnr.it/) (CNR - Pisa, Italy), that support their researches.
+
+The Grad-CAM code is based on the work of Adrian Rosebrock available [here](https://www.pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-with-keras-tensorflow-and-deep-learning/).
+
